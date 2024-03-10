@@ -1,0 +1,12 @@
+.weather-app {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.weather-info {
+  margin-top: 20px;
+}
+
+.error {
+  color: red;
+}
